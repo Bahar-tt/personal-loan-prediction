@@ -69,6 +69,17 @@ scikit-learn
 ```
 
 ---
+##images
+![Confusion Matrix](images/confusion_matrix.jpg)
+
+![Correlation Heatmap](images/corralationHeatMap.jpg)
+
+![Decision Tree](images/DecisionTree.jpg)
+
+![Pair Plot](images/PairPlot.jpg)
+
+![Loan Distribution](images/personalloan2.jpg)
+
 
 ## 👩‍💻 Author
 
